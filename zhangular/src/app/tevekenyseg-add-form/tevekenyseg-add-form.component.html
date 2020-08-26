@@ -1,0 +1,19 @@
+
+<div class="container" style="padding: 10px">
+  <h2>Adjon hozzá tevékenységet</h2>
+  <form>
+    <div class="form-group">
+      <label style="font-size: 1.3em">Név: </label>
+      <input type="text" class="form-control" #nev>
+    </div>
+    <select id="kategoria" name="kategoria" #kategoria>
+      <option value="opcionális">opcionális</option>
+      <option value="normal">normal</option>
+      <option value="sürgős">sürgős</option>
+    </select>
+    <br/>
+    <br/>
+
+    <button type="button" (click)="create(nev,kategoria)" class="btn btn-primary">Create</button>
+  </form>
+</div>
