@@ -1,0 +1,16 @@
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\bin\Debug\netcoreapp2.1\zh_authentication.deps.json
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\bin\Debug\netcoreapp2.1\zh_authentication.runtimeconfig.json
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\bin\Debug\netcoreapp2.1\zh_authentication.runtimeconfig.dev.json
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\bin\Debug\netcoreapp2.1\zh_authentication.dll
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\obj\Debug\netcoreapp2.1\zh_authentication.csprojAssemblyReference.cache
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\obj\Debug\netcoreapp2.1\zh_authentication.RazorAssemblyInfo.cache
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\obj\Debug\netcoreapp2.1\zh_authentication.RazorAssemblyInfo.cs
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\obj\Debug\netcoreapp2.1\zh_authentication.AssemblyInfoInputs.cache
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\obj\Debug\netcoreapp2.1\zh_authentication.AssemblyInfo.cs
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\obj\Debug\netcoreapp2.1\zh_authentication.RazorTargetAssemblyInfo.cache
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\bin\Debug\netcoreapp2.1\zh_authentication.pdb
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\obj\Debug\netcoreapp2.1\zh_authentication.dll
+C:\Users\gergo\Desktop\krujz_gergely_p71jvi_asp_zh_ketto\zh_authentication\zh_authentication\obj\Debug\netcoreapp2.1\zh_authentication.pdb

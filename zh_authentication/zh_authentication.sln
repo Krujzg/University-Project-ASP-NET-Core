@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zh_authentication", "zh_authentication\zh_authentication.csproj", "{B9CA738A-24ED-46F7-9B69-D3FDC7FE144B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9CA738A-24ED-46F7-9B69-D3FDC7FE144B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9CA738A-24ED-46F7-9B69-D3FDC7FE144B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9CA738A-24ED-46F7-9B69-D3FDC7FE144B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9CA738A-24ED-46F7-9B69-D3FDC7FE144B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AF2749C-D471-4D80-AD6B-E9F436904F2D}
+	EndGlobalSection
+EndGlobal
